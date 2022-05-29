@@ -1,0 +1,13 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.niebieski {
+    background-color: blue;
+}
+
+.inne {
+
+    opacity:0.5;
+}
